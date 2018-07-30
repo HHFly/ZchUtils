@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ZchUtils.iml" filepath="$PROJECT_DIR$/ZchUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZchUtils.iml" filepath="$PROJECT_DIR$/ZchUtils.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zchutil/zchutil.iml" filepath="$PROJECT_DIR$/zchutil/zchutil.iml" />
     </modules>
   </component>
 </project>
